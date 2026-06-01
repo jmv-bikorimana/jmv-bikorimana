@@ -1,16 +1,38 @@
-## Hi there 👋
+**# Jean Marie Vianney Bikorimana
 
-<!--
-**jmv-bikorimana/jmv-bikorimana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Systems Administration & Infrastructure Support Professional
 
-Here are some ideas to get you started:
+Experienced ICT professional with practical experience supporting enterprise infrastructure, identity management systems, application hosting environments, automation, backup and recovery, monitoring, and operational support.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technical Areas
+
+- Windows Server Administration
+- Linux Administration
+- Active Directory
+- Identity Management
+- OpenLDAP
+- PowerShell Automation
+- Enterprise Application Hosting
+- Apache Tomcat
+- Eclipse Jetty
+- Backup & Recovery
+- Monitoring & Incident Response
+- Infrastructure Operations
+
+### Featured Repositories
+
+- enterprise-system-administration
+- powershell-system-admin-tools
+- openldap-migration-project
+- application-hosting-operations
+
+### Certifications
+
+- Elements of AI
+- AI Literacy
+- Ethics of AI
+- One Million Prompters
+
+### Contact
+
+Email: bjmvever@gmail.com**
